@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and Javascript at Michigan State Univeristy's Coding Bootcamp expected completed July 2022.
 
-- 💞️ I’m looking to collaborate on small web projects to practice and hone in my skills as a full stack web developer in training.
+- 💞️ I’m looking to collaborate on small web projects to practice and hone in my skills as a full stack web developer.
 
 "Great things never came from comfort zones" -Ben Francia
 
