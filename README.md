@@ -2,9 +2,9 @@
 
 - 👀 I received my Bachelor of Arts from Baldwin Wallace University in Theatre with a minor in Web Programming. My love for arts and creating intertwines with the technology field where I can use my creative skills to solve complex problems and present them with confidence.
 
-- 🌱 I’m currently learning HTML, CSS and Javascript at Michigan State Univeristy's Coding Bootcamp expected completed July 2022.
+- 🌱 I have recentlly received my Full Stack Web Development Certificate from Michigan State University with a focus on the MERN Stack.
 
-- 💞️ I’m looking to collaborate on small web projects to practice and hone in my skills as a full stack web developer.
+- 💞️ I’m looking to collaborate on small web projects to practice and hone in my skills as a full stack web developer. I enjoy creating thoughtful and beautiful UI while mastering behind the scenes.
 
 "Great things never came from comfort zones" -Ben Francia
 
